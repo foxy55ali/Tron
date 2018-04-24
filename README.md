@@ -7,6 +7,8 @@
 
 # Purpose
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Paranoid-Devs/Tron.svg)](https://greenkeeper.io/)
+
 Tron is a bot that is primarily used with Discord. It has a number of commands that make chatting a
 bit more enjoyable. Such as `+hug`, `+kiss`, `+kick`, `+lick`, and much more that are listed in
 the help command.
