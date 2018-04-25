@@ -23,7 +23,7 @@ much trouble running your own instance if your heart desires. There are a few th
 before cloning the repo, running `npm i -y; npm start`, and hoping for the best:
 
 1. Set the environment variable for the Discord Token (**DISCORD\_KEY**).
-   - I use a config.json combined with pm2.config.js in order to use [pm2](http://pm2.keymetrics.io/) effectively for separate builds of Tron. 
+   - I use a config.json combined with [pm2.config.js](./pm2.config.js) in order to use [pm2](http://pm2.keymetrics.io/) effectively for separate builds of Tron. 
    - You can refer to the [sample config.json](./util/config_sample.json) for further help.
 
 1. If on Windows, refer to [this guide](https://github.com/Automattic/node-canvas/wiki/Installation---Windows) available on the [node-canvas](https://github.com/Automattic/node-canvas) repo, before installing all of the dependencies.
